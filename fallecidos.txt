@@ -1,5 +1,3 @@
-{"nombre":"Señor Malo","_id":"0Xh2JBzuGFHegaEF"}
-{"nombre":"Señor Malo","_id":"25ApKDjNWzXHRIBT"}
 {"nombre":"Señor Malo","_id":"3aLFIfsyvuF9eRmc"}
 {"nombre":"Señor Malo","_id":"43fswLrgWOxHjJvN"}
 {"nombre":"Juan Carlos Pereyra","_id":"5GT6vfUYtLaQFs8p"}
@@ -19,5 +17,3 @@
 {"nombre":"Señor Malo","_id":"nGesI0R8DGKCCtZR"}
 {"nombre":"Juan Carlos Pereyra","_id":"tgxZmAEZEQHA9jml"}
 {"nombre":"Señor Malo","_id":"xwCiNdhIv9tS7ML9"}
-{"$$deleted":true,"_id":"0Xh2JBzuGFHegaEF"}
-{"$$deleted":true,"_id":"25ApKDjNWzXHRIBT"}
