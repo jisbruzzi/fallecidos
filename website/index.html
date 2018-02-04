@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <script>
+            function eliminar(id){
+                console.log(id);
+                fetch("/fallecidos/"+id,{
+                    method:"DELETE",
+                })
+                .then((res)=>res.json())
+                .then(actualizarLista)
+            }
+            function actualizarLista(lista){
+                let elemento=document.getElementById("tabla")
+                let t="<table><tbody>\
+                    <tr><th>nombre</th><th>eliminar</th></tr>"
+                
+                for(let fallecido of lista){
+                    t+="<tr><td>"
+                        +(fallecido.nombre+"")
+                        +"</td><td><button onclick=\"eliminar('"
+                        +fallecido._id
+                        +"')\">eliminar</button></td></tr>"
+                }
+                t+="</tbody></table>"
+                elemento.innerHTML=t;
+            }
+
+            window.onload=function(){
+                fetch("/fallecidos").then((r)=>r.json()).then(actualizarLista)
+            }
+            
+            function clickEnviar(){
+                let elNombre=document.getElementById("campo").value;
+                console.log(elNombre)
+                fetch("/fallecidos",{
+                    method:"POST",
+                    body:JSON.stringify({
+                        "nombre":elNombre
+                    }),
+                    headers: new Headers({
+                        'Content-Type': 'application/json'
+                    })
+                })
+                .then((res)=>res.json())
+                .then(actualizarLista)
+            }
+            
+        </script>
+    </head>
+    <body>
+        <div>
+            Nombre: <input type="text" id="campo"><button onclick="clickEnviar()">enviar</button>
+        </div>
+         <div id="tabla">
+            Acá va la tablaaaa
+            <table>
+                <tbody>
+                    <tr>
+                        <th>nombre</th>
+                        <th>eliminar</th>
+                    </tr>
+                    <tr>
+                        <td>José</td>
+                        <td><button>eliminar</button></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+
+</html>

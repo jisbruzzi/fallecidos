@@ -10,9 +10,7 @@ app.use(require("body-parser").json())
 
 
 
-app.get("/",(req,res)=>{
-    res.send(("hello world"))
-})
+app.use("/",express.static("website"))
 
 
 const fallecidos=express.Router();
