@@ -1,0 +1,23 @@
+{"nombre":"Señor Malo","_id":"0Xh2JBzuGFHegaEF"}
+{"nombre":"Señor Malo","_id":"25ApKDjNWzXHRIBT"}
+{"nombre":"Señor Malo","_id":"3aLFIfsyvuF9eRmc"}
+{"nombre":"Señor Malo","_id":"43fswLrgWOxHjJvN"}
+{"nombre":"Juan Carlos Pereyra","_id":"5GT6vfUYtLaQFs8p"}
+{"nombre":"Señor Malo","_id":"7jp6l7B17fUm8Dw1"}
+{"nombre":"José Ignacio Sbruzzi","escondido":false,"_id":"7oyTITXNGAKVj6l4"}
+{"nombre":"Señor Malo","_id":"8moetsbu5ydFBsKH"}
+{"nombre":"Señor Malo","_id":"A8iym4kpYGrS3NLr"}
+{"nombre":"Señor Malo","_id":"E4OT9kuzw58uHoa8"}
+{"nombre":"Señor Malo","_id":"E9ZcrkQ8LcxfNU7H"}
+{"nombre":"Señor Malo","_id":"F60kR9GGlMkfIpGo"}
+{"nombre":"Señor Malo","_id":"WMvFQt9mOqKvOj3l"}
+{"nombre":"Señor Malo","_id":"cCgqiYjK9E3EIdvx"}
+{"nombre":"José Ignacio Sbruzzi","escondido":false,"_id":"gy5WtPUEzMtnNTrl"}
+{"nombre":"Señor Malo","_id":"ihki3mDbpqCdWrhG"}
+{"nombre":"Juan Carlos Menem","_id":"lZJbx06z2g8kICWF"}
+{"nombre":"Señor Malo","_id":"lwbQzLRhy718ey4j"}
+{"nombre":"Señor Malo","_id":"nGesI0R8DGKCCtZR"}
+{"nombre":"Juan Carlos Pereyra","_id":"tgxZmAEZEQHA9jml"}
+{"nombre":"Señor Malo","_id":"xwCiNdhIv9tS7ML9"}
+{"$$deleted":true,"_id":"0Xh2JBzuGFHegaEF"}
+{"$$deleted":true,"_id":"25ApKDjNWzXHRIBT"}
