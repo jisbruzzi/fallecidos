@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <script>
+            function eliminar(id){
+                console.log(id);
+                fetch("/fallecidos/"+id,{
+                    method:"DELETE",
+                })
+                .then(()=>fetch("/repetidos"))
+                .then(r=>r.json())
+                .then(armarTabla)
+            }
+
+            function armarTabla(repetidos){
+                console.log("La tabla la voy a armar con:",repetidos);
+                let tabla="<table><tbody>"
+                    +"<tr><th>nombre 1</th><th>eliminar 1</th><th>nombre 2</th><th>eliminar 2</th></tr>"
+                repetidos.forEach(r => {
+                    tabla+="<tr>"
+                        +"<td>"+r.e1.nombre+"</td>"
+                        +"<td><button onclick=\"eliminar('"+r.e1._id+"')\">Eliminar 1</button></td>"
+                        +"<td>"+r.e2.nombre+"</td>"
+                        +"<td><button onclick=\"eliminar('"+r.e2._id+"')\">Eliminar 2</button></td>"
+                    +"</tr>"
+                });
+                tabla+="</tbody></table>"
+
+                let body=document.getElementById("body");
+                body.innerHTML=tabla;
+
+            }
+            window.onload=function(){
+                fetch("/repetidos").then((r)=>r.json()).then(armarTabla)
+            }
+        </script>
+    </head>
+    <body id="body">
+            Acá va la tablaaaa
+            <table>
+                <tbody>
+                    <tr>
+                        <th>nombre</th>
+                        <th>eliminar</th>
+                    </tr>
+                    <tr>
+                        <td>José</td>
+                        <td><button>eliminar</button></td>
+                    </tr>
+                </tbody>
+            </table>
+    </body>
+</html>

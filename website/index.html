@@ -36,7 +36,7 @@
                 let elemento=document.getElementById("campo");
                 let elNombre=elemento.value;
                 elemento.value="";
-                
+
                 console.log(elNombre)
                 fetch("/fallecidos",{
                     method:"POST",
@@ -58,7 +58,9 @@
             <p>La URL a la que conectarse es:<span id="url"></span></p>
         </div>
         <div>
-            Nombre: <input type="text" id="campo"><button onclick="clickEnviar()">enviar</button>
+            Nombre: <input type="text" id="campo"><button onclick="clickEnviar()">enviar</button> <span style="color:red">
+            <br/>
+            (Ingresar primero los nombres y luego el o los apellidos, separados por espacios)</span>
         </div>
          <div id="tabla">
             Acá va la tablaaaa
@@ -74,6 +76,9 @@
                     </tr>
                 </tbody>
             </table>
+        </div>
+        <div>
+            <a href="/eliminar.html">Asistente de eliminación de repetidos</a>
         </div>
     </body>
 

@@ -60,7 +60,7 @@ function sonidoDeNombre(nombre){
         nombre=nombre.replace(sub,reemplazo);
     }
 
-    nombre=nombre.replace(/ +/g," ")
+    nombre=nombre.replace(/  +/g," ")
 
     console.log("Sale el nombre",nombre)
     return nombre;

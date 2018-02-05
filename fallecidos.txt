@@ -3,8 +3,26 @@
 {"nombre":"shancor","sonido":"yankor","_id":"D3pkQ218mzSmH873"}
 {"nombre":"chanchos","sonido":"2an2os","_id":"EHsoOod6gxDjsecf"}
 {"nombre":"ezequiel gutierrez","sonido":"esekiel gutierres","_id":"MICd2Qi3v7vD7dBs"}
-{"nombre":"asd","sonido":"asd","_id":"ldJ1ux3Q5aWxel8g"}
+{"nombre":"antes          sos      malvado","sonido":"antes sos malbado","_id":"bcs2xd7l8XIfj1UG"}
 {"nombre":"yanquor","sonido":"yankor","_id":"nZldzu3mJbbYhenK"}
 {"nombre":"eze","sonido":"ese","_id":"vAn2IFpwuifTmffX"}
-{"nombre":"antes          sos      malvado","sonido":"antes sos malbado","_id":"bcs2xd7l8XIfj1UG"}
-{"$$deleted":true,"_id":"ldJ1ux3Q5aWxel8g"}
+{"$$deleted":true,"_id":"Bt4kEB3JyTv8yD7Y"}
+{"$$deleted":true,"_id":"CYzaDjDr33chq1pA"}
+{"$$deleted":true,"_id":"D3pkQ218mzSmH873"}
+{"$$deleted":true,"_id":"EHsoOod6gxDjsecf"}
+{"$$deleted":true,"_id":"MICd2Qi3v7vD7dBs"}
+{"$$deleted":true,"_id":"bcs2xd7l8XIfj1UG"}
+{"$$deleted":true,"_id":"nZldzu3mJbbYhenK"}
+{"$$deleted":true,"_id":"vAn2IFpwuifTmffX"}
+{"nombre":"cacho alvarez","sonido":"ka2o albares","_id":"NCmMUJ0pXgHx7Zu1"}
+{"nombre":"Ernesto Cacho Alvarez","sonido":"ernesto ka2o albares","_id":"VnlUcLyPsRBPhOas"}
+{"nombre":"JUAN CACHO ALVAREZ","sonido":"juan ka2o albares","_id":"WKsdVnUzQJXbMfI6"}
+{"nombre":"JUAN ALVAREZ","sonido":"juan albares","_id":"EtBjlr18tv3GTkAs"}
+{"nombre":"kacho Albares","sonido":"ka2o albares","_id":"n9UEatwzOoh9GueL"}
+{"nombre":"jeronimo ferreyra","sonido":"jeronimo ferreyra","_id":"kNf4vmOrqlzceEPk"}
+{"nombre":"Geronimo","sonido":"jeronimo","_id":"h9xRUH3yAiglFOta"}
+{"$$deleted":true,"_id":"WKsdVnUzQJXbMfI6"}
+{"$$deleted":true,"_id":"VnlUcLyPsRBPhOas"}
+{"$$deleted":true,"_id":"n9UEatwzOoh9GueL"}
+{"nombre":"JUAN Hernando Alvarez","sonido":"juan ernando albares","_id":"f24vTjwfcER1znTc"}
+{"$$deleted":true,"_id":"EtBjlr18tv3GTkAs"}
