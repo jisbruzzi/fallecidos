@@ -1,54 +1,8 @@
-{"nombre":"Señor Malo","_id":"3aLFIfsyvuF9eRmc"}
-{"nombre":"Señor Malo","_id":"43fswLrgWOxHjJvN"}
-{"_id":"4lThtHcySkgFGbfO"}
-{"nombre":"Juan Carlos Pereyra","_id":"5GT6vfUYtLaQFs8p"}
-{"nombre":"Señor Malo","_id":"7jp6l7B17fUm8Dw1"}
-{"nombre":"José Ignacio Sbruzzi","escondido":false,"_id":"7oyTITXNGAKVj6l4"}
-{"nombre":"Señor Malo","_id":"8moetsbu5ydFBsKH"}
+{"nombre":"Juan Doming Perón","_id":"3x0qWdpd87WYfYUn"}
+{"nombre":"++++++++++++++","_id":"5gejOyyGMXvLpotY"}
 {"nombre":"Señor Malo","_id":"A8iym4kpYGrS3NLr"}
-{"nombre":"Señor Malo","_id":"E4OT9kuzw58uHoa8"}
 {"nombre":"Señor Malo","_id":"E9ZcrkQ8LcxfNU7H"}
-{"nombre":"Señor Malo","_id":"F60kR9GGlMkfIpGo"}
-{"_id":"K0uBr2WACuUb1bc6"}
-{"nombre":"Señor Malo","_id":"WMvFQt9mOqKvOj3l"}
-{"nombre":"Señor Malo","_id":"cCgqiYjK9E3EIdvx"}
-{"_id":"ciKGBbt9uVe5OUYU"}
 {"nombre":"José Ignacio Sbruzzi","escondido":false,"_id":"gy5WtPUEzMtnNTrl"}
 {"nombre":"Señor Malo","_id":"ihki3mDbpqCdWrhG"}
-{"nombre":"Juan Carlos Menem","_id":"lZJbx06z2g8kICWF"}
-{"nombre":"Señor Malo","_id":"lwbQzLRhy718ey4j"}
 {"nombre":"Señor Malo","_id":"nGesI0R8DGKCCtZR"}
-{"nombre":"Juan Carlos Pereyra","_id":"tgxZmAEZEQHA9jml"}
-{"_id":"wHnaR7HjHYQ4VbBa"}
-{"nombre":"Señor Malo","_id":"xwCiNdhIv9tS7ML9"}
-{"_id":"zU3UHhemKgn6u0LI"}
-{"_id":"xiSvBdTplxQhXcSC"}
-{"$$deleted":true,"_id":"3aLFIfsyvuF9eRmc"}
-{"$$deleted":true,"_id":"43fswLrgWOxHjJvN"}
-{"$$deleted":true,"_id":"5GT6vfUYtLaQFs8p"}
-{"$$deleted":true,"_id":"7oyTITXNGAKVj6l4"}
-{"$$deleted":true,"_id":"7jp6l7B17fUm8Dw1"}
-{"$$deleted":true,"_id":"8moetsbu5ydFBsKH"}
-{"$$deleted":true,"_id":"E4OT9kuzw58uHoa8"}
-{"$$deleted":true,"_id":"F60kR9GGlMkfIpGo"}
-{"$$deleted":true,"_id":"WMvFQt9mOqKvOj3l"}
-{"$$deleted":true,"_id":"cCgqiYjK9E3EIdvx"}
-{"$$deleted":true,"_id":"xwCiNdhIv9tS7ML9"}
-{"$$deleted":true,"_id":"tgxZmAEZEQHA9jml"}
-{"_id":"LC1mEGj2mnxmFpPt"}
 {"nombre":"---------------------","_id":"saFCwkxS572kxdta"}
-{"nombre":"++++++++++++++","_id":"5gejOyyGMXvLpotY"}
-{"$$deleted":true,"_id":"4lThtHcySkgFGbfO"}
-{"$$deleted":true,"_id":"K0uBr2WACuUb1bc6"}
-{"$$deleted":true,"_id":"LC1mEGj2mnxmFpPt"}
-{"$$deleted":true,"_id":"ciKGBbt9uVe5OUYU"}
-{"$$deleted":true,"_id":"wHnaR7HjHYQ4VbBa"}
-{"$$deleted":true,"_id":"xiSvBdTplxQhXcSC"}
-{"$$deleted":true,"_id":"zU3UHhemKgn6u0LI"}
-{"nombre":"Juan Doming Perón","_id":"3x0qWdpd87WYfYUn"}
-{"nombre":"Duhalde y Evita sentados en una plaza tomando mate","_id":"ICWRvXunhTELlNsl"}
-{"$$deleted":true,"_id":"ICWRvXunhTELlNsl"}
-{"$$deleted":true,"_id":"lZJbx06z2g8kICWF"}
-{"$$deleted":true,"_id":"lwbQzLRhy718ey4j"}
-{"nombre":"josecito","_id":"5YU0nLko1dFU6DbH"}
-{"$$deleted":true,"_id":"5YU0nLko1dFU6DbH"}

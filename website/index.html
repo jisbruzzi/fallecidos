@@ -27,6 +27,9 @@
 
             window.onload=function(){
                 fetch("/fallecidos").then((r)=>r.json()).then(actualizarLista)
+                fetch("/url").then((r)=>r.text()).then((t)=>{
+                    document.getElementById("url").innerText=t;
+                })
             }
             
             function clickEnviar(){
@@ -48,6 +51,9 @@
         </script>
     </head>
     <body>
+        <div>
+            <p>La URL a la que conectarse es:<span id="url"></span></p>
+        </div>
         <div>
             Nombre: <input type="text" id="campo"><button onclick="clickEnviar()">enviar</button>
         </div>

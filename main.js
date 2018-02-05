@@ -45,4 +45,8 @@ fallecidos.use((req,res)=>{
 
 
 app.use("/fallecidos",fallecidos)
+
+
+app.get("/url",require("./myHost"))
+
 app.listen(3000,()=>console.log("escuchando en 3000"));
