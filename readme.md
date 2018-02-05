@@ -28,4 +28,4 @@ Se puede cerrar y volver a abrir el servidor sin problemas, ya que la base de da
 
 La descarga del pdf puede demorar un poco en empezar.
 
-Este es un software que no está pensado para ser seguro, pensado para exponerse a una pequeña red LAN de gente bienintencionada.
+Este es un software que no está pensado para ser seguro, sino para exponerse a una pequeña red LAN de gente bienintencionada.
