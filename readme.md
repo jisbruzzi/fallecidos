@@ -7,12 +7,18 @@ Está pensado para ser usado en la [misión Lavalle del Movimiento Vida en Graci
 ## Parte en la que se necesita conexión a internet
 1. Instalar node y git (en Windows se descargan los instaladores como con cualquier otro programa, en Android se pueden instalar utilizando Termux).
 2. Clonar este repositorio e instalar dependencias.
-```git clone https://github.com/soyyo5159/fallecidos`cd fallecidos
-npm install```
+
+```
+git clone https://github.com/soyyo5159/fallecidos`cd fallecidos
+npm install 
+```
+
 ## Parte en la que **no** se necesita conexión a internet
 3. Conectar el celular o PC a una red wifi.
 4. Iniciar el servidor
-```npm start```
+```
+npm start
+```
 5. Desde el mismo PC o celular desde el que se ejecutó ese comando, abrir en un navegador la dirección `localhost:3000` (si, es una url).
 6. Luego de conectarse a la misma red wifi que el servidor, el resto se conectan por medio de la url que figura en la parte superior de la página `localhost:3000` (que debería ser algo como `192.108.0.24:3000`) (si, es una url).
 
