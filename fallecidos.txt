@@ -27,3 +27,10 @@
 {"nombre":"d","sonido":"d","_id":"wfPq6RnqIWXX82mA"}
 {"nombre":"c","sonido":"k","_id":"ycvYxjVG1pM2ma3g"}
 {"nombre":"l","sonido":"l","_id":"zcqrMEsFn8Iop6yf"}
+{"$$deleted":true,"_id":"0CXZ5r2WgLc9KqvY"}
+{"$$deleted":true,"_id":"quxtFEGwPITQjt06"}
+{"$$deleted":true,"_id":"D71LI31GaOHkuf6o"}
+{"$$deleted":true,"_id":"JTtPJRQp8Ma6BvYR"}
+{"$$deleted":true,"_id":"a1iwCMxj0RkepZnP"}
+{"$$deleted":true,"_id":"ycvYxjVG1pM2ma3g"}
+{"$$deleted":true,"_id":"h9xRUH3yAiglFOta"}
