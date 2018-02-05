@@ -15,7 +15,7 @@ npm install
 ```
 
 ## Parte en la que **no** se necesita conexión a internet
-3. Conectar el celular o PC a una red wifi.
+3. Conectar el celular o PC a una red wifi. (Puede ser una red wifi de un celular que funcione como punto de acceso, incluso si el mismo no tiene conexión de datos)
 4. Iniciar el servidor
 ```
 npm start
