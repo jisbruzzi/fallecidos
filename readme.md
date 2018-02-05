@@ -9,7 +9,8 @@ Está pensado para ser usado en la [misión Lavalle del Movimiento Vida en Graci
 2. Clonar este repositorio e instalar dependencias.
 
 ```
-git clone https://github.com/soyyo5159/fallecidos`cd fallecidos
+git clone https://github.com/soyyo5159/fallecidos
+cd fallecidos
 npm install 
 ```
 
