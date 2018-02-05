@@ -33,7 +33,10 @@
             }
             
             function clickEnviar(){
-                let elNombre=document.getElementById("campo").value;
+                let elemento=document.getElementById("campo");
+                let elNombre=elemento.value;
+                elemento.value="";
+                
                 console.log(elNombre)
                 fetch("/fallecidos",{
                     method:"POST",

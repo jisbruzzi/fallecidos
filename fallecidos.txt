@@ -1,8 +1,10 @@
-{"nombre":"Juan Doming Perón","_id":"3x0qWdpd87WYfYUn"}
-{"nombre":"++++++++++++++","_id":"5gejOyyGMXvLpotY"}
-{"nombre":"Señor Malo","_id":"A8iym4kpYGrS3NLr"}
-{"nombre":"Señor Malo","_id":"E9ZcrkQ8LcxfNU7H"}
-{"nombre":"José Ignacio Sbruzzi","escondido":false,"_id":"gy5WtPUEzMtnNTrl"}
-{"nombre":"Señor Malo","_id":"ihki3mDbpqCdWrhG"}
-{"nombre":"Señor Malo","_id":"nGesI0R8DGKCCtZR"}
-{"nombre":"---------------------","_id":"saFCwkxS572kxdta"}
+{"nombre":"antes     ERA    BUENO","sonido":"antes era    bueno","_id":"Bt4kEB3JyTv8yD7Y"}
+{"nombre":"Esekiel gutierres","sonido":"esekiel gutierres","_id":"CYzaDjDr33chq1pA"}
+{"nombre":"shancor","sonido":"yankor","_id":"D3pkQ218mzSmH873"}
+{"nombre":"chanchos","sonido":"2an2os","_id":"EHsoOod6gxDjsecf"}
+{"nombre":"ezequiel gutierrez","sonido":"esekiel gutierres","_id":"MICd2Qi3v7vD7dBs"}
+{"nombre":"asd","sonido":"asd","_id":"ldJ1ux3Q5aWxel8g"}
+{"nombre":"yanquor","sonido":"yankor","_id":"nZldzu3mJbbYhenK"}
+{"nombre":"eze","sonido":"ese","_id":"vAn2IFpwuifTmffX"}
+{"nombre":"antes          sos      malvado","sonido":"antes sos malbado","_id":"bcs2xd7l8XIfj1UG"}
+{"$$deleted":true,"_id":"ldJ1ux3Q5aWxel8g"}
